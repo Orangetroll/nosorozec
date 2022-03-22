@@ -10,3 +10,5 @@ if (x/2.0 > 100){
 } else {
     petla 2;
 }
+
+dopisanie po dodaniu na githuba;
