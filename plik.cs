@@ -12,3 +12,5 @@ if (x/2.0 > 100){
 }
 
 dopisanie po dodaniu na githuba;
+
+dodawanie kolejnych commitow bez celu;
